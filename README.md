@@ -1,4 +1,4 @@
-my-website
+Personal page
 ==========
 
-My personnal website
+This repo contains the source code of my personal page
